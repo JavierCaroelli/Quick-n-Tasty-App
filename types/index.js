@@ -1,0 +1,9 @@
+// Products State
+export const GET_PRODUCTS_SUCCESS = "GET_PRODUCTS_SUCCESS";
+
+// Order State
+export const SELECT_PRODUCT = "SELECT_PRODUCT";
+export const CONFIRM_DISH_ORDER = "CONFIRM_DISH_ORDER";
+export const SHOW_TOTAL_SUMMARY = "SHOW_TOTAL_SUMMARY";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const ORDER_SENDED = "ORDER_SENDED";
